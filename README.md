@@ -12,7 +12,7 @@ Processing Download: https://processing.org/download/
 Import of Processing core to Eclipse: https://processing.org/tutorials/eclipse/
 
 
-# How to run on your computer:
+# How to run on your computer
 1. Download Eclipse (Link above)
 2. Download Processing (Link above)
 3. Create a new project in Eclipse with any name you desire
