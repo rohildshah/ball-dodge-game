@@ -17,7 +17,7 @@ Import of Processing core to Eclipse: https://processing.org/tutorials/eclipse/
 2. Download Processing (Link above)
 3. Create a new project in Eclipse with any name you desire
 4. Import the Processing core into that Eclipse project (Link above)
-5. Download and open this git repository (.zip file)
+5. Download and open this git repository with the "Clone or Download" button (.zip file)
 6. Right click on your Eclipse project (Step 3)
 7. Select Import > General > File System > Next > Browse
 8. Locate the opened .zip file (step 5) within the Browse window
