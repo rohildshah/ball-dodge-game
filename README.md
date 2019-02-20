@@ -3,14 +3,9 @@ This is a game where you dodge the red moving balls with your mouse to survive. 
 
 Gameplay: https://www.youtube.com/watch?v=vbMDU7HbkCY
 
-- Eclipse IDE is ideal
-
-  Eclipse Download: https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2018-12/R/eclipse-inst-mac64.dmg
-- Requires the download and import of the processing core
-
-  Processing Download: https://processing.org/download/
-
-  Import of processing core to Eclipse: https://processing.org/tutorials/eclipse/
+Eclipse Download: https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2018-12/R/eclipse-inst-mac64.dmg
+Processing Download: https://processing.org/download/
+Import of Processing core to Eclipse: https://processing.org/tutorials/eclipse/
 
 How to run on your computer:
 1. Download Eclipse (Link above)
