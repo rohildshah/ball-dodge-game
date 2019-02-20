@@ -3,4 +3,5 @@ This is a game where you dodge the red moving balls with your mouse to survive. 
 
 - Eclipse IDE is ideal
 - Requires the download and import of the processing core
+
   Help: https://processing.org/tutorials/eclipse/
