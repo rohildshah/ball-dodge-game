@@ -1,7 +1,9 @@
-# ball-dodge-game
+# Description
 This is a game where you dodge the red moving balls with your mouse to survive. Your score is located in the bottom right corner of the screen.
 
 Gameplay: https://www.youtube.com/watch?v=vbMDU7HbkCY
+
+# Downloads and Help
 
 Eclipse Download: https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2018-12/R/eclipse-inst-mac64.dmg
 
@@ -10,7 +12,7 @@ Processing Download: https://processing.org/download/
 Import of Processing core to Eclipse: https://processing.org/tutorials/eclipse/
 
 
-How to run on your computer:
+# How to run on your computer:
 1. Download Eclipse (Link above)
 2. Download Processing (Link above)
 3. Create a new project in Eclipse with any name you desire
