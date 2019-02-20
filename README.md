@@ -20,7 +20,7 @@ Import of Processing core to Eclipse: https://processing.org/tutorials/eclipse/
 4. Import the Processing core into that Eclipse project (Link above)
 5. Download and open this git repository with the "Clone or Download" button (.zip file)
 6. Right click on your Eclipse project (Step 3)
-7. Select Import > General > File System > Next > Browse
+7. Select `Import > General > File System > Next > Browse`
 8. Locate the opened .zip file (step 5) within the Browse window
 9. Click open
 10. Select: "Balls.java", and "Main.java" then click finish
