@@ -30,4 +30,4 @@ Import of Processing core to Eclipse: https://processing.org/tutorials/eclipse/
 10. Click open
 11. Select: "Balls.java", and "Main.java" then click finish
 12. Drag and drop the .java files into the "src" folder in the "Package Explorer" to the left
-13. Run Main.java
+13. Open and run Main.java using the green play button on the top banner
