@@ -15,7 +15,7 @@ Import of Processing core to Eclipse: https://processing.org/tutorials/eclipse/
 ## How to run on your computer
 **Tested on Mac OS; this _may_ work on Windows as well**
 
-1. Download Eclipse (Link above)
+1. Download the Eclipse IDE for Java Devlopers (Link above)
 2. Download Processing (Link above)
 3. Create a new project in Eclipse with any name you desire
 4. Import the Processing core into that Eclipse project (Link above)
