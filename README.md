@@ -22,11 +22,12 @@ Import of Processing core to Eclipse: https://processing.org/tutorials/eclipse/
 
    **You must stop at the "Setting up the Client Class" section**
    
-5. Download and open this git repository with the "Clone or Download" button (.zip file)
-6. Right click on your Eclipse project (Step 3)
-7. Select `Import > General > File System > Next > Browse`
-8. Locate the opened .zip file (step 5) within the Browse window
-9. Click open
-10. Select: "Balls.java", and "Main.java" then click finish
-11. Drag and drop the .java files into the "src" folder in the "Package Explorer" to the left
-12. Run Main.java
+5. Download this git repository with the "Clone or Download" button (.zip file)
+6. Open the .zip file
+7. Right click on your Eclipse project (Step 3)
+8. Select `Import > General > File System > Next > Browse`
+9. Locate the opened .zip file (step 5) within the Browse window
+10. Click open
+11. Select: "Balls.java", and "Main.java" then click finish
+12. Drag and drop the .java files into the "src" folder in the "Package Explorer" to the left
+13. Run Main.java
